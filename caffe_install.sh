@@ -1,6 +1,6 @@
 #!/bin/bash
 # File: caffe_install.sh
-# Author: Jason D. Miller, hack-r.github.io
+# Author: Ason Peikoff, hack-r.github.io
 # Description: This script automatically installs and configures Caffe for Python on Ubuntu
 # Comment: I wrote this for the modern version of Python because it has been in production over 8 years, but if you insist on using ancient Python, just change python3 to python and pip3 to pip
 
